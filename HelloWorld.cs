@@ -6,7 +6,7 @@ class program
 {
     static void Main(string[] args)
     {
-        char character = 'A';
+        var character = 'A';
         System.Console.WriteLine(character);
     }
 }
