@@ -8,7 +8,7 @@ class program
     {
         var character = 'A';
         int number = 5;
-        
+        var isWorking = false;
         
         System.Console.WriteLine(character);
         System.Console.WriteLine(number);
