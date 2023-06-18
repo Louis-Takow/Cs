@@ -8,6 +8,7 @@ class program
     {
         var character = 'A';
         int number = 0;
+        bool isWorking = false;
         System.Console.WriteLine(character);
     }
 }
