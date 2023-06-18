@@ -10,7 +10,7 @@ class program
         int number = 0;
         bool isWorking = false;
         string word = "happy";
-        float decimal = 5.6f
+        float decimal = 5.6f;
         System.Console.WriteLine(character);
     }
 }
