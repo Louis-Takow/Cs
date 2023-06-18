@@ -9,6 +9,7 @@ class program
         var character = 'A';
         int number = 0;
         bool isWorking = false;
+        string word = "happy";
         System.Console.WriteLine(character);
     }
 }
