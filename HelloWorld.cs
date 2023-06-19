@@ -9,7 +9,6 @@ class program
         var character = 'A';
         bool isForming = false;
         string word = "believe";
-        int Number = 0;
         System.Console.WriteLine(character);
     }
 }
