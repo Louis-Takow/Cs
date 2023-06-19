@@ -10,7 +10,6 @@ class program
         bool isForming = false;
         string word = "believe";
         int Number = 0;
-        float decimal = 3.5f;
         System.Console.WriteLine(character);
     }
 }
