@@ -8,6 +8,8 @@ class program
     {
         var character = 'A';
         bool isForming = false;
+        int number = 0;
+        string word = "believe";
         System.Console.WriteLine(character);
     }
 }
