@@ -10,7 +10,6 @@ class program
         bool isForming = false;
         int number = 0;
         string word = "believe";
-        int number = 0;
         System.Console.WriteLine(character);
     }
 }
